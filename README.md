@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a full-stack developer transitioning into low-level programming with a keen interest in C. <br>Currently, I'm diving deep into AI, ML/DL, and exploring the fascinating field of malware analysis. <br>Excited to work on projects that challenge my understanding of systems and security.
+I'm a backend developer transitioning into low-level programming with a focus on C, currently exploring AI, machine learning, and malware analysis.
 
 
 # 💻 Tech Stack:
